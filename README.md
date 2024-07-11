@@ -2,8 +2,8 @@
 This project is to learn and refresh the Machine Learning Concepts. 
 
 ## Description
-Optional section to provide a more detailed overview of the project.
+1. Tested KNN Classifier Model on WISC Beast Cancer dataset.
+2. 
 
-## Getting Started
-Optional section to summarize important steps and how to use the project & apps in the project
+
 
