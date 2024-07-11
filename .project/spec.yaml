@@ -3,7 +3,7 @@ specMinorVersion: 1
 meta:
   name: FirstProject
   image: project-firstproject
-  description: ""
+  description: 'Learning Project to refresh Machine Learning concepts. '
   labels: []
   createdOn: "2024-06-26T18:01:23Z"
   defaultBranch: main
